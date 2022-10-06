@@ -33,7 +33,8 @@
 
 .contenidoPrincipal-cursos {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
+  flex-direction: row-reverse;
 }
 
 .contenidoPrincipal-cursos-link {
