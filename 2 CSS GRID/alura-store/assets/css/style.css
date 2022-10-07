@@ -12,15 +12,12 @@
 }
 
 .encabezado {
-    background: #00cc99;
     grid-area: encabezado;
 }
 .contenido {
-    background: #ff8080;
     grid-area: contenido;
 }
 
 .rodapie { 
-    background: #0099ff;
     grid-area: rodapie;
 }
