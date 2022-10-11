@@ -1,37 +1,37 @@
 .head {
-    color: #FFFFFF;
+  color: #ffffff;
 
-    width: 100%;
+  width: 100%;
 
-    box-sizing: border-box;
+  box-sizing: border-box;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
 
-    border-bottom: 1px solid #103D4A;
+  border-bottom: 1px solid #103d4a;
 
-    position: absolute;
+  position: absolute;
 }
 
 .head__logo {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .head__navegacion {
-    text-align: center;
-    text-decoration: none;
+  text-align: center;
+  text-decoration: none;
 }
 
 .head__enlace {
-    font-size: 1.1rem;
+  font-size: 1.1rem;
 
-    display: inline-block;
+  display: inline-block;
 
-    margin-right: .7rem;
-    margin-bottom: 1.25rem;
-    margin-left: .7rem;
+  margin-right: 0.7rem;
+  margin-bottom: 0.7rem;
+  margin-left: 0.7rem;
 }
