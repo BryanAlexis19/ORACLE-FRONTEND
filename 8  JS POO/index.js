@@ -4,6 +4,8 @@ class Cliente {
   rucCliente;
 }
 
+//Para hacer una variable privada ponerle guion bajo _ o numeral#
+
 class cuentaCorriente {
   numero;
   #saldo;
