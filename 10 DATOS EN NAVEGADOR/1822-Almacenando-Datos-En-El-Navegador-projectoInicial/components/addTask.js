@@ -57,6 +57,6 @@ export const createTask = ({ value, dateFormat, complete, id }) => {
   dateElement.innerHTML = dateFormat;
   task.appendChild(taskContent);
   task.appendChild(dateElement);
-  task.appendChild(deleteIcon());
+  task.appendChild(deleteIcon(id));
   return task;
 };
