@@ -11,13 +11,13 @@
       "id": 2
     },
     {
-      "nombre": "Pedro",
-      "email": "pedro@.com",
+      "nombre": "pancho",
+      "email": "pedroEditado@.com",
       "id": "59023681-392b-43a9-8e19-8aabb7e487f0"
     },
     {
-      "nombre": "Lita",
-      "email": "lbdrefus@gmail.com",
+      "nombre": "Litaxxxxx",
+      "email": "lbdrefusssssss@gmail.com",
       "id": "0f1a48b0-5a21-434a-a5ff-e11e2726bbcd"
     },
     {
@@ -29,16 +29,6 @@
       "nombre": "555555",
       "email": "fadsfasdf",
       "id": "b060d2d0-39b6-4861-b4fd-46b55cd78056"
-    },
-    {
-      "nombre": "555555asdf",
-      "email": "asdfasfadsfasdf",
-      "id": "c6c699ce-278c-4da8-83ff-a9e801baec06"
-    },
-    {
-      "nombre": "pancho",
-      "email": "pistolas",
-      "id": "0dd3a8ac-99e9-4dfe-8ac1-1c8a5bf636ae"
     }
   ]
 }
